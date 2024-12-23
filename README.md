@@ -18,6 +18,8 @@ Users input details, choose order type, pizza size, toppings, and view prices. T
   - Calculate order prices dynamically.
   <br>
   <br>
+- Reset Functionality: Clear all inputs and orders.
+
   
 
 
