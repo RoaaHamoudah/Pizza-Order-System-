@@ -15,7 +15,9 @@ Users input details, choose order type, pizza size, toppings, and view prices. T
   <br>
 - Order Management:
   - Add, sort, and display orders.
-  - 
+  - Calculate order prices dynamically.
+  <br>
+  <br>
   
 
 
