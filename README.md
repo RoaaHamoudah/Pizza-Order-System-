@@ -5,20 +5,20 @@ Users input details, choose order type, pizza size, toppings, and view prices. T
 ![Project Interface](https://github.com/user-attachments/assets/547062d7-ebc6-472b-8343-ca8ee8d50b2d)
 <br>
 ## Features
-- Order Types: Delivery, ToGo, and Seated.
+- **Order Types:** Delivery, ToGo, and Seated.
   <br>
   <br>
-- Dynamic GUI:
+- **Dynamic GUI:**
   - Adjusts input fields based on order type.
   - Includes labels, buttons, checkboxes, radio buttons, combo boxes, and text fields.
   <br>
   <br>
-- Order Management:
+- **Order Management:**
   - Add, sort, and display orders.
   - Calculate order prices dynamically.
   <br>
   <br>
-- Reset Functionality: Clear all inputs and orders.
+- **Reset Functionality:** Clear all inputs and orders.
 
   
 
